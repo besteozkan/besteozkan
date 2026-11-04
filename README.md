@@ -22,23 +22,6 @@
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" alt="Flutter" title="Flutter"/></code>
 </div>
 
-<div align="center">
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=ff79c6&line=00e5ff&point=ffffff&hide_border=true)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
-![Streak](https://streak-stats.demolab.com/?user=USERNAME&theme=default)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
-
-</div>
-<div align="center">
-
-### 🏆 Wins
-Hackathon 2. oldum • Applied ML research
-
-### Let's build something.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beste-g%C3%BCl-%C3%B6zkan-0295a0247)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:besteeozkan@gmail.com)
 
 </div>
