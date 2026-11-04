@@ -32,3 +32,14 @@
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
 
 </div>
+<div align="center">
+
+### 🏆 Wins
+Hackathon 2. oldum • Applied ML research
+
+### Let's build something.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beste-g%C3%BCl-%C3%B6zkan-0295a0247)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:besteeozkan@gmail.com)
+
+</div>
+
