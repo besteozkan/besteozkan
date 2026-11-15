@@ -52,6 +52,10 @@
 
 <br/><br/>
 
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=besteozkan&layout=compact&stats_format=percentages&hide_title=true&langs_count=8&size_weight=0.7&count_weight=0.5&card_width=466&bg_color=080808&text_color=e8e0d5&border_color=2a2520&border_radius=0&locale=en" alt="most used languages" />
+
+<br/><br/>
+
 ### Let's build something together.
 
 <sub>Istanbul, Türkiye &nbsp;·&nbsp; <a href="mailto:besteeozkan@gmail.com">besteeozkan@gmail.com</a></sub>
