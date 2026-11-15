@@ -1,10 +1,14 @@
+<div align="center">
+
+<img src="name.svg" alt="Beste Gül Özkan" />
+
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:2a2520,100:080808&height=3&section=header" />
 
 <div align="center">
 
 <br/>
-
-<img src="name.svg" alt="Beste Gül Özkan" />
 
 <table border="0">
 <tr>
