@@ -28,11 +28,6 @@
 <sub><b>AI · Full-Stack Developer</b></sub><br/>
 <sub>Final-year Software Development student · Istanbul</sub>
 
-<br/>
-
-[![besteozkan.dev](https://img.shields.io/badge/besteozkan.dev_↗-c9b99a?style=flat-square)](https://besteozkan.dev)
-[![linkedin](https://img.shields.io/badge/linkedin_↗-111010?style=flat-square&logo=linkedin&logoColor=c9b99a)](https://www.linkedin.com/in/beste-g%C3%BCl-%C3%B6zkan-0295a0247)
-[![instagram](https://img.shields.io/badge/instagram_↗-111010?style=flat-square&logo=instagram&logoColor=c9b99a)](https://www.instagram.com/beste.ozkann/)
 
 </td>
 </tr>
@@ -58,7 +53,7 @@
 
 ### Let's build something together.
 
-<sub>Istanbul, Türkiye &nbsp;·&nbsp; <a href="mailto:besteeozkan@gmail.com">besteeozkan@gmail.com</a></sub>
+<sub>Istanbul, Türkiye</sub>
 
 <br/>
 
