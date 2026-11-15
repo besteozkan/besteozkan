@@ -29,7 +29,7 @@
 
 ### Let's build something.
 
-<sub>Istanbul, Türkiye &nbsp;·&nbsp; <code>beste@dev:~$ _</code></sub>
+<sub>Istanbul, Türkiye &nbsp;·&nbsp;
 
 <br/>
 
