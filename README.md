@@ -4,11 +4,13 @@
 
 <br/>
 
+<img src="name.svg" alt="Beste Gül Özkan" />
+
 <table border="0">
 <tr>
 <td valign="middle" align="center" width="40%">
 
-<img height="190" src="https://raw.githubusercontent.com/nikitha11925/nikitha11925/main/wave.gif" alt="pixel avatar waving" />
+<img height="190" src="avatar.gif" alt="pixel avatar waving" />
 
 </td>
 <td valign="middle" align="center" width="60%">
