@@ -58,7 +58,7 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/besteozkan.dev-c9b99a?style=flat-square&logo=googlechrome&logoColor=080808)](https://besteozkan.dev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-111010?style=flat-square&logo=linkedin&logoColor=c9b99a)](https://www.linkedin.com/in/beste-g%C3%BCl-%C3%B6zkan-0295a0247)
+[![LinkedIn](https://img.shields.io/badge/linkedin-111010?style=flat-square&logo=linkedin&logoColor=c9b99a)](https://www.linkedin.com/in/besteozkann)
 [![Instagram](https://img.shields.io/badge/instagram-111010?style=flat-square&logo=instagram&logoColor=c9b99a)](https://www.instagram.com/beste.ozkann/)
 [![Email](https://img.shields.io/badge/besteeozkan@gmail.com-111010?style=flat-square&logo=gmail&logoColor=c9b99a)](mailto:besteeozkan@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-111010?style=flat-square&logo=github&logoColor=c9b99a)](https://github.com/besteozkan)
